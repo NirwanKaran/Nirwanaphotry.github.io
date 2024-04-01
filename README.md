@@ -1,7 +1,3 @@
-# Nirwanaphotry.github.io
-This is my Photography Page. 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

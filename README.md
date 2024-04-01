@@ -8,7 +8,8 @@ This is my Photography Page.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chatbot Test Page</title>
 </head>
-<body>
+<script src="//code.tidio.co/sj1qcvsgbln3nr0jaxf9bjzzbqsvmuo4.js" async></script>
+    <body>
     <h1>Welcome to My Chatbot Test Page</h1>
     <div id="chatbot">Chatbot will load here...</div>
     <!-- Insert chatbot script here -->
